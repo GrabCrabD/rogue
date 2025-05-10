@@ -1,0 +1,38 @@
+[
+    {
+        "player_name": "mayweath",
+        "treasure_collected": 1161,
+        "max_level": 4,
+        "enemies_defeated": 28,
+        "food_eaten": 13,
+        "elixirs_used": 0,
+        "scrolls_used": 8,
+        "hits_dealt": 28,
+        "hits_taken": 2,
+        "tiles_walked": 689
+    },
+    {
+        "player_name": "mayweath",
+        "treasure_collected": 1161,
+        "max_level": 4,
+        "enemies_defeated": 28,
+        "food_eaten": 13,
+        "elixirs_used": 0,
+        "scrolls_used": 8,
+        "hits_dealt": 28,
+        "hits_taken": 2,
+        "tiles_walked": 707
+    },
+    {
+        "player_name": "amarantt",
+        "treasure_collected": 129,
+        "max_level": 1,
+        "enemies_defeated": 3,
+        "food_eaten": 5,
+        "elixirs_used": 1,
+        "scrolls_used": 0,
+        "hits_dealt": 15,
+        "hits_taken": 18,
+        "tiles_walked": 227
+    }
+]
